@@ -1,4 +1,4 @@
-# Software Testing & Quality Assurance — Quality Review for "Swift Pay"
+# Quality Review for "Swift Pay"
 
 ---
 
