@@ -15,7 +15,7 @@ A fictional Ghanaian fintech startup, **Swift Pay**, is adding a **"Scan to Pay"
 A one-page feature specification with:
 
 - Acceptance criteria
-- UI mockup of the feature
+- UI mockup of the feature [the Figma file](https://www.figma.com/design/vNUbDzjQUDSgwrI9woam1g/Payswift-Ambiguity-flow--QAs-?node-id=11-17613&p=f). Click on the 'Present' icon on far top right corner to start testing.
 
 The artifacts intentionally contain ambiguities and potential issues.
 
